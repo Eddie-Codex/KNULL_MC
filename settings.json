@@ -8,7 +8,7 @@
   "server": {
     "ip": "sad1.sadhost.com",
     "port": 27556,
-    "version": "1.26.50",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
